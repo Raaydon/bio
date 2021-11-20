@@ -1,7 +1,7 @@
-# bio
-british informatics olympiad
-<br>
--
+# bio - british informatics olympiad
+
+solutions - https://github.com/matthewelse/british-informatics-olympiad
+
 <br>
 <tr>
 <td valign="top" width="25%"><a href="http://www.olympiad.org.uk/"><b>BIO</b></a><b>
